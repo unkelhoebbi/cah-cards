@@ -1,0 +1,16 @@
+{
+  "name": "cah-cards",
+  "version": "1.0.0",
+  "description": "This package contains all cards of https://cards-against-humanity-api.herokuapp.com/sets as a json file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gregor Stuber",
+  "license": "ISC",
+  "dependencies": {
+    "@types/cors": "^2.8.6",
+    "cors": "^2.8.5",
+    "node-fetch": "^2.6.0"
+  }
+}
